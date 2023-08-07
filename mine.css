@@ -1,0 +1,52 @@
+body{
+	background-image: url(https://img.freepik.com/premium-vector/modern-abstract-white-blue-gradient-geometric-shapes-background-graphic-design-illustration_473751-774.jpg?w=2000);
+	width: 100%;
+	height:100%;
+	padding:25px;
+}
+
+.c{
+	margin-bottom: 30px;
+	padding-left: 15%;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+
+h1{
+	text-align: center;
+	text-decoration: underline;
+}
+
+
+img{
+	float:left;
+	margin-bottom: 55px;
+
+}
+
+img:hover {
+	transform: scale(1.1);
+}
+
+li{
+	text-align: right;
+	display:inline-block;
+	margin-left: 10%;
+	margin-top:3%;
+}
+
+p{
+	text-align: center;
+	font family: 'Dancing Script', cursive;
+}
+
+.buffer{
+	padding: 5px;
+	margin-bottom: 25px;
+	margin-left: 5%;
+}
+
+span{
+	font-size: 2em;
+}
